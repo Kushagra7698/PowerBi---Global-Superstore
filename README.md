@@ -30,7 +30,9 @@ An automated dashboard providing quick and latest sales insights in order to sup
     4. Create visuals and Dashboards.
 ## Screenshot
 
-![App Screenshot](https://drive.google.com/uc?export=download&id=1vh3Y1HQjGDAHO7jM8vJvdjqw8nGy97W4)
+![Kushagra_Global_Superstore](https://user-images.githubusercontent.com/99001699/175883538-af669a63-6597-46ed-946e-9174a3bd7a1a.png)
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Kushagra7698) 
 
