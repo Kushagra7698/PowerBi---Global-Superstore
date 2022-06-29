@@ -3,7 +3,7 @@
 ### Data Source : UCI Repository : - [Global Superstore-2016 dataset - Excel File](https://github.com/Kushagra7698/PowerBi---Global-Superstore/blob/main/global_superstore.xlsx)
 ## Problem Statement: -
 
-Our case study is based on global superstore business for the financial year from 2012 to 2016 which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project he would like to build power BI dashboard that can give him real time sales insights.
+Our case study is based on global superstore business for the financial year from 2012 to 2016 which is facing challenges in dynamically changing market.
 
 ## Objective: -
 
